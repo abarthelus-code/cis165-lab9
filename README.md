@@ -30,3 +30,4 @@ How do you distinguish an empty series from a series containing zero?
 - A empty series would be if the code started with -99 which would mean no numbers were entered, if it contained 0 it would start with 0.
 
 
+To run in onlineGDB open the file on the site check to see if its on c++ then input asked values and run the code.
